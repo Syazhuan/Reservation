@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="sa">Smoking Area</string>
+    <string name="n_sa">Non-Smoking Area</string>
+    <string name="check_e">Check Eligibility</string>
+    <string name="n_o_p">No. of people</string>
+    <string name="mob_no">Mobile Number</string>
+    <string name="on_r">Online Reservation</string>
+</resources>
